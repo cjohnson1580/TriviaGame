@@ -1,0 +1,15 @@
+body {
+	background: ();
+	background-size: 200%;
+	padding: 10px;	
+}
+
+#title {
+	text-align: center;	
+	font-size: 60px;
+	color: red;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	
+}
